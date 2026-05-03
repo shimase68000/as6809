@@ -19,7 +19,7 @@ A modern Python rewrite is also included as a readable companion implementation 
 
 Interactive assembly in action:
 
-![Python version screenshot](docs/images/as6809_python.png)
+![Python version screenshot](images/as6809_python.png)
 
 ---
 
@@ -49,7 +49,7 @@ Interactive assembly in action:
 
 ## Typical Usage (BASIC Version)
 
-![BASIC version screenshot](docs/images/as6809_basic.png)
+![BASIC version screenshot](images/as6809_basic.png)
 
 1. Start the program in N88-BASIC(86)  
 2. Enter a start address  
