@@ -577,7 +577,7 @@ class Assembler:
 
 def print_result(address: int, encoded: Encoded, mnemonic: str, operand: str) -> None:
     bytes_ = encoded.all_bytes()
-    print(f"[1A[33m{address:04X}: [32m{format_bytes(bytes_):<15} {mnemonic:<7} {operand}")
+    print(f"[1A[33m{address:04X}: [32m{format_bytes(bytes_):<15} {mnemonic:<7} {operand}[0K")
 
 
 def repl(origin: int) -> None:
