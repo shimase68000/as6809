@@ -4,12 +4,12 @@ One reason this project exists today is that the source code survived across mul
 
 Approximate migration path:
 
-* Around 1988\
+* Around 1985\
   FM-new7 (original BASIC version)\
   → cassette tape\
   → PC-8801 (home)
 
-* Around 1989\
+* Around 1988\
   PC-8801mkIISR (home)\
   → floppy disk\
   → PC-9801 (university laboratory)
