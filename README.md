@@ -51,7 +51,7 @@ Interactive assembly in action:
 
 ![BASIC version screenshot](images/as6809_basic.png)
 
-1. Start the program in N88-BASIC(86)  
+1. Run the program in N88-BASIC(86)  
 2. Enter a start address  
 3. Type assembly instructions line by line  
 4. Machine code is generated immediately  
